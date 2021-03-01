@@ -2,6 +2,8 @@
 
 > It's like bowling with bumpers. - [@ippsec](https://twitter.com/ippsec)
 
+Rob's note: if you're reinstalling AutoRecon, don't forget to clear your .config files at /root/.config/AutoRecon or /home/kali/.config/AutoRecon. Thanks Tib for the awesomet tool.
+
 # AutoRecon
 
 AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. It is intended as a time-saving tool for use in CTFs and other penetration testing environments (e.g. OSCP). It may also be useful in real-world engagements.
