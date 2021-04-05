@@ -2,7 +2,7 @@
 
 > It's like bowling with bumpers. - [@ippsec](https://twitter.com/ippsec)
 
-Rob's note: if you're reinstalling AutoRecon, don't forget to clear your .config files at /root/.config/AutoRecon or /home/kali/.config/AutoRecon. Thanks Tib for the awesomet tool.
+Rob's note: if you're reinstalling AutoRecon, don't forget to clear your .config files at /root/.config/AutoRecon or /home/kali/.config/AutoRecon. Thanks Tib for the awesome tool.
 
 # AutoRecon
 
